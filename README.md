@@ -1,3 +1,4 @@
+Check out my latest project: https://github.com/KJMcDaniels/DevOps-Pipeline-for-CI-CD/tree/main
 - 👋 Hi, I’m @KJMcDaniels
 - 👀 I’m interested in learning everything information security and threat intelligence
 - 🌱 I’m currently learning API testing and studying for AWS Security Specialty + CompTIA Sec+
